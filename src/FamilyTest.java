@@ -25,6 +25,7 @@ public class FamilyTest {
 
         Family family1 = new Family(husband1, wife1, child1, "Okoń");
         System.out.println("family1 = " + family1);
+        //jlkjlhk
 
 
     }
