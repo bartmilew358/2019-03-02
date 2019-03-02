@@ -139,6 +139,9 @@ public class FamilyTree {
         System.out.println(family1.family());
         System.out.println(family1.sumFamilyAge());
         System.out.println(family1.avgFamilyAge());
+//        System.out.println(family1.avgFamilyAge());
+//        System.out.println(family1.avgFamilyAge());
+//        System.out.println(family1.avgFamilyAge());
 
     }
 }
